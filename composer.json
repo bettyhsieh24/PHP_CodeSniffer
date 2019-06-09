@@ -1,12 +1,12 @@
 {
-    "name": "squizlabs/php_codesniffer",
-    "description": "PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.",
+    "name": "murmurbetty/php_codesniffer",
+    "description": "Fork form squizlabs/php_codesniffer.PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.",
     "type": "library",
     "keywords": [
         "phpcs",
         "standards"
     ],
-    "homepage": "https://github.com/squizlabs/PHP_CodeSniffer",
+    "homepage": "https://github.com/murmurbetty/PHP_CodeSniffer",
     "license": "BSD-3-Clause",
     "authors": [
         {

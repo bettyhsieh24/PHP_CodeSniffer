@@ -1,19 +1,10 @@
 <documentation title="Class Declaration">
     <standard>
     <![CDATA[
-    Each class must be in a file by itself and must be under a namespace (a top-level vendor name).
+    Must be under a namespace (a top-level vendor name).
     ]]>
     </standard>
     <code_comparison>
-        <code title="Valid: One class in a file.">
-        <![CDATA[
-<?php
-namespace Foo;
-
-<em>class Bar</em> {
-}
-        ]]>
-        </code>
         <code title="Invalid: Multiple classes in a single file.">
         <![CDATA[
 <?php
